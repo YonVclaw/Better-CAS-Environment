@@ -302,7 +302,7 @@ class cTab_Tablet_dlg
 				x = MARKER_WIDGET_X;
 				y = (sizeW / 1.2 * (safezoneH * 1.2)) + 1.25 * smalSpc + ((491)) / 2048  * (safezoneH * 1.2) + (safezoneY + (safezoneH - (safezoneH * 1.2)) / 2) + ((42)) / 2048  * (safezoneH * 1.2);
 				w = MARKER_WIDGET_W;
-				h = (MAKRER_WIDGET_MULT + 1.5) * MARKER_WIDGET_H
+				h = (MAKRER_WIDGET_MULT + 1.5) * MARKER_WIDGET_H;
 				class controls
 				{
 					class Marker_Widget_BG: RscBackground
