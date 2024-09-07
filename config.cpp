@@ -756,6 +756,7 @@ class CfgFunctions
 			{
 				file="MG8\AVFEVFX\functions\cTab\functions";
 				class cTabMap;
+				class cTab_Marker_update;
 				class cTab_ChangeTask_Desc;
 				class cTab_List_AV_Info;
 				class cTab_Switch_ExtendedList;
@@ -890,6 +891,10 @@ class CfgFunctions
 				class updateLists
 				{
 					file="MG8\AVFEVFX\functions\cTab\Origin\fn_updateLists.sqf";
+				};
+				class updateUserMarkerList
+				{
+					file="MG8\AVFEVFX\functions\cTab\Origin\fn_updateUserMarkerList.sqf";
 				};
 				class createUavCam
 				{
